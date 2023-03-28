@@ -19,7 +19,6 @@ A video demonstrating the RFlySimSafe platform by introducing some examples from
 ![](image1.png "SITL")
 
 ![](image2.png "HITL")
-
 </li>
 <li>Copy the 'Model\***\***.dll' file to the 'PX4PSP\CopterSim\external\model' folder.</li>
 <li>Open the RflySimSafe folder and run in the terminal:'pip install -r requirements.txt'.</li>
