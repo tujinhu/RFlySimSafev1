@@ -13,7 +13,7 @@ A video demonstrating the RFlySimSafe platform by introducing some examples from
 ## How to use the files.
 <ol>
 <li>Download and configure the RFlysim platform according to the tutorial of https://rflysim.com/docs/#/en/2_Configuration/SoftwareInstallation</li>
-<li>Download the source code of RflySimSafe at https://github.com/tujinhu/RflyAutoTest</li>
+<li>Download the source code of RflySimSafe at https://github.com/tujinhu/RFlySimSafev1</li>
 <li>Change the platform path of the RflySimSafe model folder software-in-the-loop and hardware-in-the-loop one-key startup script (RflySimSafe\Model\***\***SITL(HITL).bat): Specifically,Change the path to the path where the RFlySim file(PX4PSP) is located
 
 ![](image1.png "SITL")
