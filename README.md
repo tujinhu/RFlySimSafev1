@@ -26,5 +26,18 @@ A video demonstrating the RFlySimSafe platform by introducing some examples from
 <li>run AutoTestAPI/AutoTest.py</li>
 </ol>
 
+##File structure.
+AutoTestAPI:This folder is the core of RflySimSafe. specific:
+a) AutoMavCmd: control sequence analysis
+b) AutoMavCtrl: automatic test environment configuration and task management
+c) AutoMavDB: database reading and writing, file data management
+d) AutoTest: the main entrance of the automatic test program
+e) CameraCtrlApi: visual interface
+f) PX4MavCtrlV4: communication interface
+g) VisionCaptureApi: visual interface
+Data:This folder collects flight data files of different aircraft types. Mainly include log flight log, true value attitude data.
+Model:This folder manages the source code of simulink models of quadrotor model.More models will be developed in the future.
+Fault.db:The test case database.
+
 ## Note
 RflySimSafev1 is just a preview, We are working on improving and developing the functions and related documents of the platform. In our future work, we will devote ourselves to developing a more comprehensive test platform and improve the use and configuration documents of the platform. If you are interested in the content of our work, please continue to pay attention to us!
