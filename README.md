@@ -27,4 +27,4 @@ A video demonstrating the RFlySimSafe platform by introducing some examples from
 </ol>
 
 ## Note
-RflySimSafev1 is just a preview,, We are working on improving and developing the functions and related documents of the platform. In our future work, we will devote ourselves to developing a more comprehensive test platform and improve the use and configuration documents of the platform. If you are interested in the content of our work, please continue to pay attention to us!
+RflySimSafev1 is just a preview, We are working on improving and developing the functions and related documents of the platform. In our future work, we will devote ourselves to developing a more comprehensive test platform and improve the use and configuration documents of the platform. If you are interested in the content of our work, please continue to pay attention to us!
